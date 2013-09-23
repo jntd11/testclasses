@@ -1,0 +1,37 @@
+h1{
+	color : green;
+	text-align:center;
+}
+h6{
+   color:red;
+   text-align:center;
+   }
+table{
+	color: #800000;
+	width:100%;
+	height:100%;
+}
+#age{
+ text-align:center;
+ }
+ #num{
+   text-align:center;
+   }
+
+th
+	{
+	text-align:left;
+	color: red;
+	}
+td
+	{
+	text-align:left;
+	}
+#page-footer ul li a{
+
+color:#8877cc:
+font: 18px "segoe UI";
+margin-right:10px;
+text-align:center:
+text-decoration:none;
+}
